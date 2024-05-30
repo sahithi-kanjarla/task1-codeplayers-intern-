@@ -1,4 +1,6 @@
 # task1- Static Webpages
+go to my repositories and 
+the correct repository is task1-react-webpages
 
 requirements:
 - License Validation page-This page will be located under following folder “src/components/LicenseValidation” 
